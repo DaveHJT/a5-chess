@@ -1,6 +1,12 @@
 # Chess-Game-Kernel
 A graphical chess game with computer AI players.
 
+## Project Description
+See [chess.pdf](https://github.com/DaveHJT/Chess-Game-Kernel/blob/master/chess.pdf).
+
+## Project Structure
+See [chess UML.png](https://github.com/DaveHJT/Chess-Game-Kernel/blob/master/chess%20UML.png) for the design UML.
+
 ## Install
 ```sh
 You will need to install the following:  
@@ -26,8 +32,6 @@ make
 ### Command sheet
 See [demo-sheet.pdf](https://github.com/DaveHJT/Chess-Game-Kernel/blob/master/demo-sheet.pdf).
 
-## Project Structure
-See [chess UML.png](https://github.com/DaveHJT/Chess-Game-Kernel/blob/master/chess%20UML.png) for the design UML.
 
-## Project Description
-See [chess.pdf](https://github.com/DaveHJT/Chess-Game-Kernel/blob/master/chess.pdf).
+
+
