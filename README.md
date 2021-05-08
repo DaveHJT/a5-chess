@@ -1,5 +1,5 @@
 # Chess-Game-Kernel
-A graphical chess game with computer AI players.
+A graphical chess game that supports both human and computer AI players.
 
 ## Project Description
 See [chess.pdf](https://github.com/DaveHJT/Chess-Game-Kernel/blob/master/chess.pdf).
